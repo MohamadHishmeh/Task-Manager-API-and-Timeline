@@ -3,7 +3,7 @@
 ## Description
 The PERN Todo List is a simple and efficient web application built using the PERN stack (PostgreSQL, Express.js, React.js, and Node.js). It allows users to manage their daily tasks in an organized manner.
 
-While this was a relatively simple project, I was able to build a REST API as well as learn a ton on server - client relationships! I plan to continue to imporve and make the program more sophisticated.
+While this was a relatively simple project, I was able to build a REST API as well as learn a ton on server - client relationships! I plan to continue to improve and make the program more sophisticated.
 
 ## Key Features
 - Create new tasks with customizable details, such as title, description, and due date.
